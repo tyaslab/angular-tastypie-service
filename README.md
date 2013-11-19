@@ -1,0 +1,3 @@
+# Angular Tastypie Service
+
+Instruction ongoing...

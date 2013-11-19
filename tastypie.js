@@ -7,7 +7,8 @@ angular.module('ng.tastypie', [])
         this.m2m = m2m || [];
         this.object_list = [];
         this.object = {};
-        
+        // TODO: Automagically call prepareTastypie and prepareFrontEnd
+        // when performing API
         this.prepareTastypie = function(object) {
             var result = null,
                 fk_list = thisClass.getFK(),

@@ -73,9 +73,7 @@ angular.module('ng.tastypie', [])
                 for (m2m_key in m2m_list) {
                     if (angular.isArray(tempResult[m2m_key])) {
                         tempResult[m2m_key].forEach(function(el_tr, idx_tr, ar_tr) {
-                            if (el_tr.id) {
-                                el_tr = el_tr.id;
-                            }
+                            el_tr = el_tr.id;
                         });
                     } else {
                         tempResult[m2m_key] = [];

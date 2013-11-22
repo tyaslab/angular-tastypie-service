@@ -1,4 +1,4 @@
-angular.module('ng.tastypie', [])
+angular.module('tyaslab.tastypie', [])
 .factory('tastypieService', function($http, $q) {
     var _tastypieService = function(url, fk, m2m) {
         var thisClass = this; // just the reference, thisClass self explanatory ;-)

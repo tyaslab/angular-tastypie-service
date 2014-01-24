@@ -21,4 +21,4 @@ January 24, 2014 Angular Tastypie Service 0.1 officially released. ;-)
 ## Help Me Please!
 I know, even when I try my best to make this service more useful, there are still bugs here and there.
 
-You can help me improving this service by forking this repository, reporting bugs, or even [buying me some books ;-)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ACRR2SXEGZ63L)
+You can help me improving this service by forking this repository, reporting bugs, or even buying me some books ;-)

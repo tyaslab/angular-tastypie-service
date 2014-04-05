@@ -1,6 +1,6 @@
 {
   "name": "angular-tastypie",
-  "version": "0.1",
+  "version": "0.2",
   "main": "./angular-tastypie.js",
   "repository": {
     "type": "git",

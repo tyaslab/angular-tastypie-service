@@ -7,7 +7,7 @@
     "url": "https://github.com/tyaslab/angular-tastypie-service"
   },
   "dependencies": {
-    "angular": "~1.2.15",
+    "angular": "~1.2.15"
   }
 }
 
